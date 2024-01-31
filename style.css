@@ -6,3 +6,6 @@
 body{
     background-image: url(bootstrap/hatter.jpg);
 }
+.row{
+    margin: auto;
+}
